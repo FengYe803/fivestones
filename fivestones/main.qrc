@@ -1,0 +1,20 @@
+<RCC>
+	<qresource prefix="/">
+		<file>images/background.png</file>	
+		<file>images/black.png</file>
+		<file>images/white.png</file>
+		<file>images/blackbox.png</file>
+		<file>images/whitebox.png</file>
+		<file>images/button1.png</file>
+		<file>images/button2.png</file>
+		<file>images/button3.png</file>
+		<file>images/button4.png</file>
+		<file>images/button5.png</file>
+		<file>images/button6.png</file>
+		<file>images/button7.png</file>
+		<file>images/button8.png</file>
+		<file>images/mark.png</file>
+		<file>images/photo1.png</file>
+		<file>images/photo2.png</file>
+	</qresource>
+</RCC>
